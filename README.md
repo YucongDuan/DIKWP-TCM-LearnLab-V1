@@ -1,5 +1,7 @@
 # DIKWP TCM LearnLab V1
 
+Created by Yucong Duan (段玉聪).
+
 A standalone, offline-first reference prototype for learning Traditional Chinese Medicine (TCM) through classics, terminology, four-examination data organization, synthetic pattern-reasoning cases, materia medica/formula safety, modern evidence, mentorship, and human assessment.
 
 ## Quick start
